@@ -80,13 +80,7 @@ function showProject(project) {
             ${project.desc}
             </p>
             <div class="btns">
-                <a
-                    href="${project.links.demo}"
-                    class="btn"
-                    target="_blank">
-                    <i class="fas fa-eye"></i>
-                    Demo
-                </a>
+                
                 <a
                     href="${project.links.code}"
                     class="btn"

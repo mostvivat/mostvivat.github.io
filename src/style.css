@@ -1,15 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@400;500;600;800;900&display=swap');
 
 :root{
-  --display: #f7f7f7;
+  --display: #ECE5D9;
   --light: #fff;
   --dark: #000;
-  --danger: #ff7300;
-  --primary: #2D31FA;
-  --second: #051367;
+  --danger: #3A3D4E;
+  --primary: #E46D5F;
+  --second: #f3b557;
   --second-light: #00073a;
   --third: #5D8BF4;
-  --true: #52e5ff;
+  --true: #6da0f8;
 }
 
 body{
@@ -162,7 +162,7 @@ form .btn{
   width: 360px;
 
   border-radius: 50%;
-  box-shadow: 0 3px 10px var(--danger);
+  box-shadow: 0 6px 10px var(--danger);
   cursor: pointer;
 }
 .home .content .image img:hover{
@@ -321,16 +321,16 @@ form .btn{
 
 .about .container .content .image img {
   width: 380px;
-  box-shadow: 0 3px 20px var(--second);
+  box-shadow: 0 3px 20px var(--primary);
   cursor: pointer;
   border-radius: 50%;
-  mix-blend-mode: luminosity;
-}
-.about .container .content .image:nth-child(1) img:hover{
-  animation: profile-animation 8s ease-in-out infinite;
-  box-shadow: 0 5px 40px var(--second);
   mix-blend-mode: normal;
 }
+/* .about .container .content .image:nth-child(1) img:hover{
+  animation: profile-animation 8s ease-in-out infinite;
+  box-shadow: 0 5px 40px var(--primary);
+  mix-blend-mode: normal;
+} */
 
 @keyframes profile-animation {
   0%{
@@ -366,7 +366,7 @@ form .btn{
   text-align: justify;
 }
 .about .container .intro .hire-me span{
-  color: var(--second);
+  color:var(--primary);
   
 }
 .about .container .content .intro .hire-me p{
@@ -393,7 +393,7 @@ form .btn{
   transition: .5s;
 }
 .about .container .content .intro .cv-btn .btn:hover {
-  background: var(--second);
+  background: var(--primary);
   color: var(--light);
 }
 .about .container .content .intro .cv-btn .btn:hover i {
@@ -565,7 +565,7 @@ form .btn{
   color: var(--light);
 } 
 .project .container .title i{
-  color: var(--danger);
+  color: var(--second);
   font-size: 38px;
 }
 
@@ -594,7 +594,7 @@ form .btn{
   width: 100%;
   position: absolute;
   top: 70%;
-  background: var(--display);
+  background: var(--second);
   transition: .8s;
 }
 .project .container .content .cards .desc-content .tag,
@@ -708,7 +708,7 @@ footer .content img{
   margin-bottom: 10px;
 }
 footer .content:nth-child(3) a i{
-  color: var(--danger);
+  color: var(--second);
 }
 footer .content a, 
 footer .content p{
@@ -717,7 +717,7 @@ footer .content p{
   margin-bottom: 6px;
   font-size: 18px;
 }footer .content a:hover{
-  color: var(--danger);
+  color: var(--second);
 }
 
 footer .content .socials{
@@ -743,7 +743,7 @@ footer .content .socials a{
 footer .content .socials a:active,
 footer .content .socials a:focus,
 footer .content .socials a:hover {
-  background-color: var(--danger);
+  background-color: var(--second);
   color: var(--second-light);
 }
 

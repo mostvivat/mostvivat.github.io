@@ -1,40 +1,36 @@
 [
     {
-        "title": "Form Website",
-        "tech": "HTML & CSS",
+        "title": "BASIC WEBAPPLICATION",
+        "tech": "HTML ,PHP & CSS",
         "image": "./assets/img/project/form.png",
         "desc":"This is my first project. I Learn in freecodecamp to make form website using HTML & CSS",
         "links": {
-            "demo": "https://septiandwica.github.io/Survey-Form/",
             "code": "https://github.com/Septiandwica/Survey-Form"
         }
     },
     {
-        "title": "Learn Code Website",
-        "tech": "HTML, CSS & JS",
+        "title": "Keptang Web Application",
+        "tech": "HTML, CSS , RUST & JS ",
         "image": "./assets/img/project/proyek web dasar.png",
         "desc":"This is my for dicoding submission.",
         "links": {
-            "demo": "https://septiandwica.github.io/Project-Web-Dasar/",
             "code": "https://github.com/Septiandwica/Project-Web-Dasar"
         }
     },{
-        "title": "BookShelf Web App",
+        "title": "BOOTSTRAP PERSONAL WEBSITE",
         "tech": "HTML & CSS",
         "image": "./assets/img/project/bookshelf app.png",
         "desc":"This is my project for dicoding submission.",
         "links": {
-            "demo": "https://septiandwica.github.io/bookshelf-app/",
             "code": "https://github.com/Septiandwica/bookshelf-app"
         }
     },{
-        "title": "Company Profile",
-        "tech": "HTML, CSS, JS & BOOTSTRAP",
+        "title": "Little Buddy Mobile Application",
+        "tech": "Flutter",
         "image": "./assets/img/project/proyek freelance.png",
-        "desc": "This is my project for company profile(Thalia Education)",
+        "desc": "This is my final project ",
         "links": {
-            "demo": "https://thaliaeducation.septiandwica.site",
-            "code": "https://github.com/Septiandwica/Company-Profile-1"
+            "code": "https://github.com/Yunocat02/LittleBuddy.git"
         }
     },{
         "title": "Portfolio Website",
@@ -42,8 +38,7 @@
         "image": "./assets/img/project/portfolio.png",
         "desc": "This is my project for personal portfolio.",
         "links": {
-            "demo": "https://septiandwica.site",
-            "code": "https://github.com/Septiandwica/"
+            "code": "https://github.com/mostvivat/mostvivat.github.io.git"
         }
     }
 ]
