@@ -7,7 +7,7 @@
   --danger: #3A3D4E;
   --primary: #E46D5F;
   --second: #f3b557;
-  --second-light: #00073a;
+  --second-light: #275aba;
   --third: #5D8BF4;
   --true: #6da0f8;
 }
@@ -450,7 +450,7 @@ form .btn{
 .about .skills .container .box .image img{
   width: 50px;
   box-sizing: border-box;
-  background-color: #02033a;
+  background-color: #162f82;
   border-radius: 10px;
   padding: 5px;
   margin: 5px;

@@ -1,7 +1,7 @@
 [
     {
-        "name": "Designing the visual appearance of the website (UI Design) with Figma for website designers",
-        "by": "skillsacademy x prakerja",
+        "name": "The Complete 2023 Software Testing Bootcamp",
+        "by": "Udemy  x Tarek Roshdy",
         "image": "./certification/uiux-skillsacademy.png",
         "category":"programming",
         "links": {
@@ -16,12 +16,12 @@
             "credentials": "https://www.dicoding.com/certificates/QLZ92D242X5D"
         }
     }, {
-        "name": "Learn basic javascript programming",
-        "by": "Dicoding Academy x IndosatID Camp",
-        "image": "./certification/js-dicoding.png",
+        "name": "พื้นฐานและการใช้งาน IPv6 ",
+        "by": "Udemy x  Mr.Jantapong Boodluck ",
+        "image": "./certification/certi.png",
         "category":"programming",
         "links": {
-            "credentials": "https://www.dicoding.com/certificates/NVP7KRLRGZR0"
+            "credentials": "https://www.udemy.com/certificate/UC-fc8948fd-e025-4a11-8618-a6dbcaac267e/"
         }
     }, {
         "name": "Learn to Create a Web Front-End for Beginners",

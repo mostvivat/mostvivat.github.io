@@ -10,11 +10,11 @@
     },
     {
         "title": "Keptang Web Application",
-        "tech": "HTML, CSS , RUST & JS ",
-        "image": "./assets/img/project/proyek web dasar.png",
-        "desc":"This is my for dicoding submission.",
+        "tech": "RUST , HTML, CSS  & JS ",
+        "image": "./assets/img/project/keptang.png",
+        "desc":"This is my first project that developed by RUST language",
         "links": {
-            "code": "https://github.com/Septiandwica/Project-Web-Dasar"
+            "code": "https://github.com/mostvivat/Project-Keptang.git"
         }
     },{
         "title": "BOOTSTRAP PERSONAL WEBSITE",
@@ -26,7 +26,7 @@
         }
     },{
         "title": "Little Buddy Mobile Application",
-        "tech": "Flutter",
+        "tech": "FLUTTER",
         "image": "./assets/img/project/proyek freelance.png",
         "desc": "This is my final project ",
         "links": {
