@@ -31,13 +31,5 @@
         "links": {
             "credentials": "https://www.udemy.com/certificate/UC-fc8948fd-e025-4a11-8618-a6dbcaac267e/"
         }
-    }, {
-        "name": " Learn to Create Backend Applications for Beginners with Cloudeka",
-        "by": "Dicoding Academy x Lintasarta Cloudeka Digischool",
-        "image": "./certification/be-dicoding.png",
-        "category":"programming",
-        "links": {
-            "credentials": "https://www.dicoding.com/certificates/QLZ9274YMX5D"
-        }
     }
 ]
