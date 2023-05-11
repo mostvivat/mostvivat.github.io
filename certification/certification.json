@@ -16,20 +16,20 @@
             "credentials": "https://www.dicoding.com/certificates/QLZ92D242X5D"
         }
     }, {
+        "name": "Postman: The Complete Guide - REST API Testing",
+        "by": "Udemy x Valentin Despa",
+        "image": "./certification/fe-dicoding.png",
+        "category":"programming",
+        "links": {
+            "credentials": "https://www.dicoding.com/certificates/4EXG9YR7QZRL"
+        }
+    }, {
         "name": "พื้นฐานและการใช้งาน IPv6 ",
         "by": "Udemy x  Mr.Jantapong Boodluck ",
         "image": "./certification/certi.png",
         "category":"programming",
         "links": {
             "credentials": "https://www.udemy.com/certificate/UC-fc8948fd-e025-4a11-8618-a6dbcaac267e/"
-        }
-    }, {
-        "name": "Learn to Create a Web Front-End for Beginners",
-        "by": "Dicoding Academy x Lintasarta Cloudeka Digischool",
-        "image": "./certification/fe-dicoding.png",
-        "category":"programming",
-        "links": {
-            "credentials": "https://www.dicoding.com/certificates/4EXG9YR7QZRL"
         }
     }, {
         "name": " Learn to Create Backend Applications for Beginners with Cloudeka",
