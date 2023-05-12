@@ -31,5 +31,13 @@
         "links": {
             "credentials": "https://www.udemy.com/certificate/UC-fc8948fd-e025-4a11-8618-a6dbcaac267e/"
         }
+    }, {
+        "name": "พื้นฐานและการใช้งาน IPv6 ",
+        "by": "Udemy x  Mr.Jantapong Boodluck ",
+        "image": "./certification/certi.png",
+        "category":"programming",
+        "links": {
+            "credentials": "https://www.udemy.com/certificate/UC-fc8948fd-e025-4a11-8618-a6dbcaac267e/"
+        }
     }
 ]
