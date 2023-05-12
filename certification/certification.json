@@ -8,12 +8,12 @@
             "credentials": "https://www.udemy.com/certificate/UC-4465e400-5337-4730-b6af-c1eadebfbb32/"
         }
     }, {
-        "name": "Learn basic web programming",
-        "by": "Dicoding Academy x Lintasarta Cloudeka Digischool",
-        "image": "./certification/web-dicoding.png",
+        "name": "Excel Insights (Vlookup, Pivot, If) for Modern Entrepreneurs",
+        "by": "Mahidol university",
+        "image": "./certification/mpdf.png",
         "category":"programming",
         "links": {
-            "credentials": "https://www.dicoding.com/certificates/QLZ92D242X5D"
+            "credentials": "https://mux.mahidol.ac.th/edxphp/getcer/7d2597a996c81dda8b55af680f1670cdff81af8f"
         }
     }, {
         "name": "Postman: The Complete Guide - REST API Testing",
