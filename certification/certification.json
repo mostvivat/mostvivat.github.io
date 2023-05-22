@@ -10,20 +10,12 @@
     }, {
         "name": "Testing Automation using Robot Framework ",
         "by": "CloudNC",
-        "image": "./certification/certi.png",
+        "image": "./certification/CLOUD.png",
         "category":"programming",
         "links": {
             "credentials": "https://www.udemy.com/certificate/UC-fc8948fd-e025-4a11-8618-a6dbcaac267e/"
         }
-    }, {
-        "name": "Postman: The Complete Guide - REST API Testing",
-        "by": "Udemy x Valentin Despa",
-        "image": "./certification/mpdf.png",
-        "category":"programming",
-        "links": {
-            "credentials": "https://www.dicoding.com/certificates/4EXG9YR7QZRL"
-        }
-    }, {
+    },{
         "name": "Excel Insights (Vlookup, Pivot, If) for Modern Entrepreneurs",
         "by": "Mahidol university",
         "image": "./certification/mpdf.png",
