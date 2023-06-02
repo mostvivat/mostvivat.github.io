@@ -16,6 +16,14 @@
             "credentials": "https://www.udemy.com/certificate/UC-fc8948fd-e025-4a11-8618-a6dbcaac267e/"
         }
     },{
+        "name": "Software Quality Assurance and Testing: Introduction to testing Principles and Structured Testing Techniques",
+        "by": "Mahidol university",
+        "image": "./certification/tpdf.png",
+        "category":"programming",
+        "links": {
+            "credentials": "https://mux.mahidol.ac.th/edxphp/getcer/7d2597a996c81dda8b55af680f1670cdff81af8f"
+        }
+    },{
         "name": "Excel Insights (Vlookup, Pivot, If) for Modern Entrepreneurs",
         "by": "Mahidol university",
         "image": "./certification/mpdf.png",
