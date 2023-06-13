@@ -1,11 +1,11 @@
 [
     {
-        "title": "BASIC WEBAPPLICATION",
-        "tech": "HTML ,PHP & CSS",
+        "title": "PHP WEBAPPLICATION WEBBOARD",
+        "tech": "HTML ,PHP & SQL",
         "image": "./assets/img/project/form.png",
-        "desc":"This is my first project. I Learn in freecodecamp to make form website using HTML & CSS",
+        "desc":"This is my first project. I Learn in university to make form website using HTML SQL & PHP",
         "links": {
-            "code": "https://github.com/Septiandwica/Survey-Form"
+            "code": "https://github.com/mostvivat/Webapplication-PHP-EnET-C.git"
         }
     },
     {
@@ -19,18 +19,26 @@
     },{
         "title": "BOOTSTRAP PERSONAL WEBSITE",
         "tech": "HTML & CSS",
-        "image": "./assets/img/project/bookshelf app.png",
-        "desc":"This is my project for dicoding submission.",
+        "image": "./assets/img/project/bss.png",
+        "desc":"This is my project for Webapplication subject.",
         "links": {
-            "code": "https://github.com/Septiandwica/bookshelf-app"
+            "code": "https://github.com/mostvivat/Webapplicaion-enet-c.git"
         }
     },{
         "title": "Little Buddy Mobile Application",
         "tech": "FLUTTER",
-        "image": "./assets/img/project/proyek freelance.png",
-        "desc": "This is my final project ",
+        "image": "./assets/img/project/LB.png",
+        "desc": "This is my final project. ",
         "links": {
             "code": "https://github.com/Yunocat02/LittleBuddy.git"
+        }
+    },{
+        "title": "BOOTSTRAP COMPUTER OFFICE WEBSITE",
+        "tech": "HTML & CSS",
+        "image": "./assets/img/project/bootstrap.png",
+        "desc": "This is my project for Webapplication subject. ",
+        "links": {
+            "code": "https://github.com/mostvivat/Webapplicaion-enet-c.git"
         }
     },{
         "title": "Portfolio Website",
