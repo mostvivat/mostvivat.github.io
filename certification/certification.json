@@ -32,6 +32,14 @@
             "credentials": "https://mux.mahidol.ac.th/edxphp/getcer/7d2597a996c81dda8b55af680f1670cdff81af8f"
         }
     }, {
+        "name": "GitHub for Developer",
+        "by": "BorntoDev School ",
+        "image": "./certification/borntodev-GitHub for Developer.png",
+        "category":"programming",
+        "links": {
+            "credentials": "https://school.borntodev.com/certificate/iCfFiGfIzf4v"
+        }
+    }, {
         "name": "พื้นฐานและการใช้งาน IPv6 ",
         "by": "Udemy x  Mr.Jantapong Boodluck ",
         "image": "./certification/certi.png",
