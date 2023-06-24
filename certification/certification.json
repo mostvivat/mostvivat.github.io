@@ -40,6 +40,14 @@
             "credentials": "https://school.borntodev.com/certificate/iCfFiGfIzf4v"
         }
     }, {
+        "name": "Command Prompt 101",
+        "by": "BorntoDev School ",
+        "image": "./certification/borntodev-acdemy_Command Prompt 101_certifiacte.png",
+        "category":"programming",
+        "links": {
+            "credentials": "https://school.borntodev.com/certificate/25AA5nj2mElH"
+        }
+    }, {
         "name": "พื้นฐานและการใช้งาน IPv6 ",
         "by": "Udemy x  Mr.Jantapong Boodluck ",
         "image": "./certification/certi.png",
