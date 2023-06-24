@@ -111,12 +111,12 @@ loadmore.addEventListener("click", () => {
     ...document.querySelectorAll(".certification .content .box"),
   ];
 
-  for (let i = currentItems; i < currentItems + 3; i++) {
+  for (let i = currentItems; i < currentItems + 100; i++) {
     if (elementList[i]) {
       elementList[i].classList.add("d-block");
     }
   }
-  currentItems += 3;
+  currentItems += 100;
 
   if (currentItems >= elementList.length) {
     loadmore.classList.add("d-none");
