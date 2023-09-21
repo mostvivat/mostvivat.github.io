@@ -1,17 +1,7 @@
-/* -----------------------------------------------
-/* Author : Vincent Garreau  - vincentgarreau.com
-/* MIT license: http://opensource.org/licenses/MIT
-/* Demo / Generator : vincentgarreau.com/particles.js
-/* GitHub : github.com/VincentGarreau/particles.js
-/* How to use? : Check the GitHub README
-/* v2.0.0
-/* ----------------------------------------------- */
-
 var pJS = function(tag_id, params){
 
     var canvas_el = document.querySelector('#'+tag_id+' > .particles-js-canvas-el');
-  
-    /* particles.js variables with default values */
+
     this.pJS = {
       canvas: {
         el: canvas_el,
@@ -136,7 +126,6 @@ var pJS = function(tag_id, params){
   
     var pJS = this.pJS;
   
-    /* params settings */
     if(params){
       Object.deepExtend(pJS, params);
     }
@@ -356,16 +345,10 @@ var pJS = function(tag_id, params){
         this.vy = velbase.y + Math.random()-0.5;
       }
   
-      // var theta = 2.0 * Math.PI * Math.random();
-      // this.vx = Math.cos(theta);
-      // this.vy = Math.sin(theta);
-  
       this.vx_i = this.vx;
       this.vy_i = this.vy;
   
       
-  
-      /* if shape is image */
   
       var shape_type = pJS.particles.shape.type;
       if(typeof(shape_type) == 'object'){
@@ -509,14 +492,6 @@ var pJS = function(tag_id, params){
   
         /* the particle */
         var p = pJS.particles.array[i];
-  
-        // var d = ( dx = pJS.interactivity.mouse.click_pos_x - p.x ) * dx + ( dy = pJS.interactivity.mouse.click_pos_y - p.y ) * dy;
-        // var f = -BANG_SIZE / d;
-        // if ( d < BANG_SIZE ) {
-        //     var t = Math.atan2( dy, dx );
-        //     p.vx = f * Math.cos(t);
-        //     p.vy = f * Math.sin(t);
-        // }
   
         /* move the particle */
         if(pJS.particles.move.enable){
