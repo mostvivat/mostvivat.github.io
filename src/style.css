@@ -744,7 +744,7 @@ footer .content .socials a:active,
 footer .content .socials a:focus,
 footer .content .socials a:hover {
   background-color: var(--second);
-  color: var(--second-light);
+  color: #202020;
 }
 
 footer .content .socials a.github:hover,
